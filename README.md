@@ -1,9 +1,10 @@
-#Entregables trabajo fin de máster de Ingeniería informática de la UOC
+# Entregables trabajo fin de máster de Ingeniería informática de la UOC
 
-#Autor: Javier Fernández Rodríguez
-jfernandez2247@uoc.edu
+## Autor: 
+- Javier Fernández Rodríguez
+- jfernandez2247@uoc.edu
 
-#Descripción ficheros:
+## Descripción ficheros:
 - Semantic_search.ipynb: Cuaderno de Google colab que demuestra la viabilidad de un sistema de búsqueda semántica.
 Lee y carga un documento de texto referente a un convenio colectivo de una empresa, lo codifica y realiza búsquedas
 mediante consultas en lenguaje natural.
