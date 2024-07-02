@@ -1,6 +1,7 @@
 # Entregables trabajo fin de máster de Ingeniería informática de la UOC
 
-## Autor: Javier Fernández Rodríguez
+## Autor: 
+- Javier Fernández Rodríguez
 - jfernandez2247@uoc.edu
 
 ## Descripción ficheros:
