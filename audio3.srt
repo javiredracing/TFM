@@ -1,0 +1,828 @@
+﻿1
+00:00:10,700 --> 00:00:12,040
+Speaker 1: Buenos días a todos y a todas.
+
+2
+00:00:13,720 --> 00:00:31,960
+Speaker 1: Agradezco la presencia en esta mesa del señor director de la SCAN, que es la Escuela de Servicios Sanitarios y Sociales de Canarias, don José Mantelongo, el del señor don José Pereira, que es psicólogo y jefe de Servicios de Salud Mental de la Dirección General de Salud Mental y Adiciones del Gobierno de Canarias.
+
+3
+00:00:32,460 --> 00:00:35,320
+Speaker 1: A todos ustedes, a los medios de comunicación y a las personas presentes.
+
+4
+00:00:36,440 --> 00:00:41,940
+Speaker 1: En los últimos años, la salud mental ha estado en el epicentro de la preocupación de todos y todas.
+
+5
+00:00:42,760 --> 00:00:53,060
+Speaker 1: La pandemia del COVID-19 puso en riesgo la salud, no solo física, sino también mental, obligando a cada cual a usar sus herramientas emocionales para paliar el malestar.
+
+6
+00:00:53,740 --> 00:01:00,800
+Speaker 1: Los llamados mecanismos de afrontamiento de las situaciones conflictivas y del estrés tuvieron que ser puestos en práctica por cada ciudadano.
+
+7
+00:01:01,760 --> 00:01:07,980
+Speaker 1: Este estrés trajo consigo un aumento de la incidencia de los trastornos mentales, Principalmente, ansiedad y depresión.
+
+8
+00:01:09,120 --> 00:01:11,860
+Speaker 1: Pero esta situación también nos dio una gran enseñanza.
+
+9
+00:01:12,380 --> 00:01:23,760
+Speaker 1: No solamente es importante mejorar la calidad de la parte asistencial del cuidado y la salud mental, sino que también tenemos que tener un compromiso importante con la parte preventiva y educativa de la misma.
+
+10
+00:01:24,860 --> 00:01:48,460
+Speaker 1: El suicidio, considerado como un fracaso de nuestras sociedades modernas, está altamente relacionado con el deterioro de la salud mental y es un fenómeno complejo y multifactorial que ha experimentado un aumento notorio en los últimos años considerándose un problema grave de salud pública que requiere de acciones multidisciplinarias coordinadas y efectivas entre todas las administraciones públicas.
+
+11
+00:01:49,760 --> 00:02:05,840
+Speaker 1: Solo coordinándonos entre instituciones, trabajando juntas y poniendo como objetivo principal la mejora de la salud mental, utilizando todas las herramientas asistenciales preventivas y educativas disponibles, podremos contribuir en mejorar la situación de la salud mental que afecta a nuestras islas.
+
+12
+00:02:07,300 --> 00:02:21,780
+Speaker 1: Prevenir el suicidio requiere de un enfoque intersectorial que permita abordar este problema de salud pública con implicaciones multifactoriales, como una prioridad social que implica no solo a la estructura de la salud, sino a todas las instituciones y a la sociedad en.
+
+13
+00:02:21,820 --> 00:02:22,200
+Speaker 1: general.
+
+14
+00:02:23,400 --> 00:02:38,120
+Speaker 1: Dado el importante problema de salud pública que representa el suicidio, la gran repercusión que tiene y su complejidad, el enfoque intersectorial es una necesidad urgente que permite articular diversas acciones que favorezcan entornos seguros y saludables.
+
+15
+00:02:39,040 --> 00:02:56,240
+Speaker 1: Educar, hablar y concienciar de la realidad del suicidio puede ayudar a las personas a ver estas situaciones con más comprensión y compasión, darse cuenta de la importancia de ayudar a otros a obtener ayuda, de la importancia que supone prevenir y de abordar sus propios problemas de salud mental.
+
+16
+00:02:57,200 --> 00:03:05,800
+Speaker 1: El suicidio se puede prevenir y la formación, entre otras acciones que fomente la educación preventiva, son necesarias para contribuir a que esta situación mejore.
+
+17
+00:03:06,800 --> 00:03:32,020
+Speaker 1: Por estas razones, desde esta corporación insular presentamos la primera jornada de prevención de la conducta suicida que impulsa el Cabildo de Tenerife a través de la Consejería de Educación para la Prevención, junto con la SCAN, y en colaboración con la Dirección General de Salud Mental y Adición de la Consejería de Sanidad del Gobierno de Canarias y de la Universidad de La Laguna, y que se va a celebrar el día 13 de junio en el aula mana de la Universidad de La Laguna, destinada para más de 600 personas.
+
+18
+00:03:32,820 --> 00:03:43,120
+Speaker 1: Esta iniciativa coordinada forma parte de una de las líneas estratégicas que emana del programa de prevención del suicidio con la finalidad de atajar la primera causa de muerte no natural en España.
+
+19
+00:03:44,040 --> 00:04:00,840
+Speaker 1: El Cabildo de Tenerife tiene como objetivo fomentar la educación sanitaria en la prevención del suicidio para que esta sirva como una herramienta eficaz que haga frente a los datos, pero sobre todo visibilizar, educar y concienciar de que el suicidio se puede prevenir y que podemos todos actuar juntos.
+
+20
+00:04:01,700 --> 00:04:06,400
+Speaker 1: Queremos contribuir a romper los estigmas y los mitos y sustituirlos por la realidad que supone el suicidio.
+
+21
+00:04:07,040 --> 00:04:10,660
+Speaker 1: Una realidad dura, pero a pesar de ello, con necesidad de ser abordada.
+
+22
+00:04:11,600 --> 00:04:27,400
+Speaker 1: Queremos además fomentar la autoayuda y explicar las recomendaciones generales basadas en el manejo de las emociones, los pensamientos y la conducta, así como los planes de seguridad, las estrategias de afrontamiento y las múltiples razones que existen para vivir, que las hay y muchas.
+
+23
+00:04:27,700 --> 00:04:28,300
+Speaker 1: Muchas gracias.
+
+24
+00:04:28,860 --> 00:04:31,400
+Speaker 1: Le paso ahora la palabra al director Lascando, José Montero.
+
+25
+00:04:34,100 --> 00:04:34,960
+Speaker 2: Muchas gracias, consejero.
+
+26
+00:04:35,380 --> 00:04:41,380
+Speaker 2: Buenos días, muchas gracias por acudir a la presentación de la jornada sobre la prevención de la conducta suicida.
+
+27
+00:04:42,320 --> 00:04:54,040
+Speaker 2: La Escuela de Servicios Sanitarios y Sociales de Canarias, la SCAM, es el instrumento del Servicio Canario de la Salud para impartir formación para el empleo del personal sanitario y sociosanitario fundamentalmente.
+
+28
+00:04:54,580 --> 00:05:08,720
+Speaker 2: Si bien en esta nueva etapa estamos contribuyendo a ampliar nuestro aspecto de alumnado incluyendo en nuestra programación formación del ámbito sanitario abierto a la ciudadanía, como es el caso de la formación en la prevención del suicidio.
+
+29
+00:05:09,340 --> 00:05:17,580
+Speaker 2: Estas jornadas son las primeras que organizamos en Tenerife, si bien ya hay una primera edición que tuvo lugar recientemente en la isla de Lanzarote.
+
+30
+00:05:18,020 --> 00:05:26,200
+Speaker 2: El objetivo es contribuir a la formación desde esta institución que ya tiene más de tres décadas de experiencia y tiene mucho que aportar a la sociedad.
+
+31
+00:05:26,420 --> 00:05:41,640
+Speaker 2: Estas jornadas son especialmente importantes para la SCAN porque cumple con uno de los objetivos de la escuela y del plan de salud mental del Servicio Canario de la Salud, que es fomentar la formación en salud mental y en concreto en la prevención del suicidio.
+
+32
+00:05:42,380 --> 00:05:50,200
+Speaker 2: Coincido con el señor consejero en que el enfoque intersectorial es la clave para abordar este programa de salud pública y para ello la formación es imprescindible.
+
+33
+00:05:51,400 --> 00:06:03,820
+Speaker 2: Todos nos podemos ver en la situación de afrontar una conducta suicida de forma personal o en el ámbito laboral, educativo o familiar y es importante conocer cómo abordarlo y los recursos existentes para ello.
+
+34
+00:06:04,480 --> 00:06:07,500
+Speaker 2: Las jornadas serán impartidas por seis profesionales con amplia experiencia.
+
+35
+00:06:07,920 --> 00:06:13,280
+Speaker 2: Cinco de ellos son médicos especialistas en psiquiatría y el sexto especializado en psicopedagogía.
+
+36
+00:06:14,260 --> 00:06:26,780
+Speaker 2: Cuenta, como bien ha dicho el consejero, con 600 plazas y serán estas las jornadas acreditadas su asistencia por la Comisión Canaria de Acreditación de la Formación Continuada de las Profesiones Sanitarias.
+
+37
+00:06:27,620 --> 00:06:34,980
+Speaker 2: Estas jornadas, las primeras en Tenerife, están dirigidas a profesionales del ámbito de salud mental, salud pública, atención primaria y otras especialidades.
+
+38
+00:06:35,540 --> 00:06:45,640
+Speaker 2: así como a profesionales del ámbito clínico como gestores y profesionales clave no sanitarios en materia de educación, derechos sociales, menores, juventud, empleo, vivienda, justicia, entre otros.
+
+39
+00:06:46,140 --> 00:06:58,460
+Speaker 2: El principal objetivo de esta iniciativa formativa es transmitir a los asistentes las herramientas necesarias para detectar y prevenir la conducta suicida y abordar las mejoras en su tratamiento y seguimiento.
+
+40
+00:06:59,000 --> 00:07:24,620
+Speaker 2: En 2023, la SCAN formó a 20.615 alumnos y el total de cursos impartidos por la escuela fue de 1.704, entre formación propia, formación por encargo y acciones formativas que se celebraron mediante convenios, como puede ser con las instituciones, cabildos insulares, ayuntamientos y demás, o acuerdos con otras entidades públicas, lo que ha supuesto un total de 25.910 horas lectivas.
+
+41
+00:07:25,280 --> 00:07:42,480
+Speaker 2: Por último, quiero agradecer en este caso al Cabildo de Tenerife, a su presidenta, a doña Rosa Dávila, y al consejero, don Juan Acosta, a la Universidad de La Laguna, por apostar por este proyecto y apostar por la SCAM para llevarlo a cabo y facilitar el desarrollo de las mismas.
+
+42
+00:07:43,180 --> 00:07:51,020
+Speaker 2: Termino diciendo, y se lo comentaba antes al señor consejero, que solo en 24 horas ya tenemos casi 100 inscritos en esta jornada.
+
+43
+00:07:51,080 --> 00:07:56,140
+Speaker 2: Yo creo que en poquito tiempo podemos llegar a cumplir el objetivo de que...
+
+44
+00:07:56,960 --> 00:08:09,460
+Speaker 1: Bueno, tiene la palabra don José Pereira, psicólogo y jefe de servicio de salud mental de la Dirección General de Salud Mental y Adiciones.
+
+45
+00:08:10,600 --> 00:08:11,200
+Speaker 0: Buenos días.
+
+46
+00:08:11,560 --> 00:08:20,120
+Speaker 0: En primer lugar, agradecer la invitación y esta presentación de las jornadas que tenemos el día 13.
+
+47
+00:08:23,040 --> 00:08:33,340
+Speaker 0: Como ya se ha comentado, tanto el señor consejero como el director de la escuela, Ya ha mencionado la importancia de estas jornadas, el tema.
+
+48
+00:08:34,580 --> 00:08:45,700
+Speaker 0: Como ustedes saben, ya en el año 2019, cuando se aprobó el plan de salud mental, hay una línea estratégica, que es la línea estratégica 2, que tiene que ver con la prevención de la conducta de suicidio.
+
+49
+00:08:46,700 --> 00:08:52,300
+Speaker 0: En el año 2021 se publicó un programa de la prevención de la conducta de suicidio.
+
+50
+00:08:53,140 --> 00:09:01,220
+Speaker 0: Por lo tanto, esto demuestra la importancia que tiene este tema para el Servicio Canal de Salud y para la comunidad en sentido general.
+
+51
+00:09:01,960 --> 00:09:05,720
+Speaker 0: Los datos que seguramente ustedes los conocen, están ahí.
+
+52
+00:09:07,820 --> 00:09:18,020
+Speaker 0: Es verdad que los datos apuntan que la tendencia es un poco alcista, no mucho, pero sí es en los últimos años.
+
+53
+00:09:19,160 --> 00:09:31,260
+Speaker 0: Esto es importante tenerlo en cuenta y lo que se pretende con estas jornadas es sensibilizar, prevenir y formar también los profesionales y también la comunidad de alguna manera.
+
+54
+00:09:33,000 --> 00:09:48,840
+Speaker 0: En estos años, desde el año 2017, se han llevado a cabo una serie de acciones de formación A todos los colectivos, a profesionales de sanidad, a urgencias, a la gente que se está formando, a los MIR, PIR y AIR, se ha hecho mucha formación.
+
+55
+00:09:48,980 --> 00:09:51,220
+Speaker 0: A los medios de comunicación se ha hecho formación.
+
+56
+00:09:53,880 --> 00:09:55,680
+Speaker 0: A educación se ha hecho formación también.
+
+57
+00:09:56,440 --> 00:09:59,220
+Speaker 0: Y yo creo que estas jornadas son un punto más en esta línea.
+
+58
+00:10:00,600 --> 00:10:10,400
+Speaker 0: de poner un tema importante sobre la mesa y la cuestión es cómo abordarlo y cómo prevenir de alguna forma y cómo tratar.
+
+59
+00:10:11,200 --> 00:10:28,080
+Speaker 0: Como ya se ha dicho, no es solamente un tema, las causas son múltiples, Y bien, nosotros en Canarias tenemos una serie de indicadores que de alguna manera pueden favorecer en algún momento, pues, un intento, sería el paso al acto, ¿no?
+
+60
+00:10:29,320 --> 00:10:44,960
+Speaker 0: Bien, y una situación de crisis, yo creo que, bien, aquellos que hemos tenido la suerte o la poca suerte de presenciar o tratar casos como este, yo tengo siempre la sensación que nadie quiere morir, ¿vale?
+
+61
+00:10:46,160 --> 00:10:50,120
+Speaker 0: Pero muchas veces en situaciones críticas puede pasar.
+
+62
+00:10:52,060 --> 00:10:58,660
+Speaker 0: No es el tema que quiero tener aquí, pero hay un dato, por ejemplo, con el maltrato.
+
+63
+00:11:02,200 --> 00:11:09,240
+Speaker 0: El 8, el 11, el 23, los datos que tengo, creo que murieron asesinadas 52 mujeres.
+
+64
+00:11:10,380 --> 00:11:12,200
+Speaker 0: Creo que al final del año fueron 56 asesinadas.
+
+65
+00:11:13,340 --> 00:11:18,920
+Speaker 0: Pero de esos 52, 3 se suicidaron y 5 lo intentaron.
+
+66
+00:11:20,400 --> 00:11:27,020
+Speaker 0: Por lo tanto, es un 20 y algo por ciento, casi 30 por ciento de esas personas que habían cometido un desacto bastante terrible.
+
+67
+00:11:28,520 --> 00:11:29,400
+Speaker 0: ¿Qué quiero decir con esto?
+
+68
+00:11:29,520 --> 00:11:30,360
+Speaker 0: ¿Por qué traigo este dato?
+
+69
+00:11:31,380 --> 00:11:32,840
+Speaker 0: Son situaciones muy críticas.
+
+70
+00:11:33,220 --> 00:11:41,720
+Speaker 0: Seguramente detrás de estas personas hay historias individuales muy determinadas que pueden tener que ver con la patología mental.
+
+71
+00:11:42,580 --> 00:11:51,760
+Speaker 0: puede tener que ver con los consumos de tóxicos, puede tener que ver con determinadas condiciones sociales que de alguna forma facilitan este tipo de conductas.
+
+72
+00:11:52,520 --> 00:12:00,200
+Speaker 0: Y esto traigo este caso como ejemplo de la complejidad del fenómeno del suicidio.
+
+73
+00:12:00,540 --> 00:12:04,660
+Speaker 0: Una persona que intenta suicidarse o….
+
+74
+00:12:05,840 --> 00:12:09,440
+Speaker 0: Pues hay toda una historia detrás que le puede llevar a esto.
+
+75
+00:12:10,400 --> 00:12:20,740
+Speaker 0: Y la cuestión es que la sociedad esté sensibilizada de forma correcta, desde mi punto de vista, porque yo creo que es muy importante cómo transmitimos la información.
+
+76
+00:12:22,780 --> 00:12:23,960
+Speaker 0: Y este es un poco el objetivo.
+
+77
+00:12:24,060 --> 00:12:35,880
+Speaker 0: Como ha comentado el director de la SCAN, en las jornadas hay profesionales muy doctos en este tema, sea a nivel clínico, sea a nivel más o en distintos contextos, también a nivel educativo.
+
+78
+00:12:37,020 --> 00:12:44,260
+Speaker 0: Además, hay una serie de ponencias que enfocan más a la parte infantil-juvenil.
+
+79
+00:12:47,500 --> 00:12:53,460
+Speaker 0: Otras ponencias enfocan más al tema educativo, cómo tratar los temas en contexto educativo.
+
+80
+00:12:55,280 --> 00:12:59,360
+Speaker 0: Y hay una ponencia también que es muy interesante porque tiene que ver con la tercera edad.
+
+81
+00:13:01,460 --> 00:13:07,200
+Speaker 0: Sabemos que las tasas más altas de suicidio e intentos de suicidio están a partir de los 50 años.
+
+82
+00:13:08,180 --> 00:13:12,260
+Speaker 0: Y a partir de los 79 años, la cosa se dispara hasta casi el 30%.
+
+83
+00:13:12,300 --> 00:13:14,500
+Speaker 0: Por lo tanto, creo que es importante.
+
+84
+00:13:14,720 --> 00:13:22,400
+Speaker 0: Y tal vez es una asignatura que debemos tener en cuenta, pues a lo mental, creo que es una cuestión a tener en cuenta.
+
+85
+00:13:22,980 --> 00:13:33,780
+Speaker 0: Y sabemos cuáles son las variables o son los facilitadores que llevan posiblemente estas personas a tener este tipo de acciones.
+
+86
+00:13:36,700 --> 00:13:37,640
+Speaker 0: Fundamentalmente esto.
+
+87
+00:13:45,840 --> 00:13:46,380
+Speaker 0: Yo tengo una duda.
+
+88
+00:13:46,580 --> 00:13:51,100
+Speaker 0: Unas jornadas que están destinadas a profesionales, llevan tiempo, decían, trabajando
+
+89
+00:13:51,180 --> 00:13:52,140
+Speaker 2: en esta sensibilización,
+
+90
+00:13:52,980 --> 00:13:59,760
+Speaker 0: pero a mí me gustaría saber también para la gente en la calle que se pueda encontrar con este tipo de situaciones y que a lo mejor no llegue a un profesional directamente,
+
+91
+00:14:00,200 --> 00:14:01,320
+Speaker 2: si podrían facilitarle
+
+92
+00:14:01,380 --> 00:14:02,780
+Speaker 0: algún tipo de truco.
+
+93
+00:14:03,140 --> 00:14:10,640
+Speaker 0: Entiendo que no será sota caballo y rey, que será muy complicado, pero ¿cómo debe actuar una persona que se encuentre con este tipo de situaciones, más allá del ámbito profesional?
+
+94
+00:14:13,200 --> 00:14:39,340
+Speaker 0: Hay un teléfono que es el 024, no tenemos el dato de Canarias, lo hemos pedido al Ministerio porque es un teléfono del Ministerio de Sanidad, pero no tengo concretamente el dato, pero creo que se publicó que ha habido 200 y algo, 20.000 o algo así, de llamadas telefónicas de gente que de alguna manera sé que se siente sola, sé que está pasando por una crisis vital, etcétera, etcétera.
+
+95
+00:14:39,420 --> 00:15:02,600
+Speaker 0: Se han hecho campañas, campañas dirigidas a la población a nivel general, concretamente sobre un poco los mitos, por ejemplo, los mitos sobre el tema del suicidio o aquel que lo intenta o que lo manifiesta no lo va a hacer y sabemos que eso no es así.
+
+96
+00:15:03,420 --> 00:15:11,360
+Speaker 0: Entonces, desde mi punto de vista, si usted me pregunta qué sugerencia yo haría, porque lo he visto,
+
+97
+00:15:12,080 --> 00:15:12,160
+Speaker 0: ¿no?,
+
+98
+00:15:14,780 --> 00:15:27,480
+Speaker 0: Yo creo que cualquier llamada de atención es muy importante y debemos tenerla siempre en cuenta porque sabemos que hay mucha probabilidad de que esta persona pueda pasar al acto.
+
+99
+00:15:28,540 --> 00:15:29,420
+Speaker 0: Esta sería la cuestión.
+
+100
+00:15:30,980 --> 00:15:32,500
+Speaker 0: Después hay cuestiones más generales.
+
+101
+00:15:32,880 --> 00:15:37,660
+Speaker 0: Sabemos que hay determinados indicadores que facilitan la soledad.
+
+102
+00:15:38,460 --> 00:15:47,860
+Speaker 0: Sabemos que estar soltero, por ejemplo, No digo que los que te insulten se suicidan, pero sabemos que es una variable a tener en cuenta, la viudedad, las separaciones, etc.
+
+103
+00:15:48,660 --> 00:15:53,480
+Speaker 0: De alguna manera que en situaciones de crisis la probabilidad aumenta.
+
+104
+00:15:54,220 --> 00:15:58,560
+Speaker 0: Yo creo que en distintos contextos esto debemos tenerlo en cuenta.
+
+105
+00:15:59,940 --> 00:16:06,680
+Speaker 0: Muchas veces cuando decimos que es un problema de salud mental, un 90% de las personas que se suicidan pueden tener algún tipo de patología mental.
+
+106
+00:16:07,160 --> 00:16:17,880
+Speaker 0: Pero sabemos también una cosa, que... Pero la patología mental, la mayor parte de las veces no es continua, que sí que de alguna forma se da en determinadas etapas de la vida.
+
+107
+00:16:18,320 --> 00:16:18,680
+Speaker 0: ¿Me explico?
+
+108
+00:16:19,500 --> 00:16:29,160
+Speaker 0: Y yo creo que esto, los profesionales de la salud o los profesionales de educación o los profesionales de servicios sociales, toda la gente que trabaja con gente, yo creo que….
+
+109
+00:16:30,060 --> 00:16:31,020
+Speaker 0: Yo creo que esto es importante.
+
+110
+00:16:31,080 --> 00:16:31,840
+Speaker 0: La familia mismo, ¿no?
+
+111
+00:16:33,300 --> 00:16:33,980
+Speaker 0: Es una tontería.
+
+112
+00:16:34,200 --> 00:16:36,180
+Speaker 0: Ha dicho, me voy a tirar por la ventana.
+
+113
+00:16:36,400 --> 00:16:37,260
+Speaker 0: Es una tontería, ¿no?
+
+114
+00:16:37,680 --> 00:16:39,140
+Speaker 0: Yo creo que hay que tenerlo en cuenta, ¿no?
+
+115
+00:16:39,800 --> 00:16:42,860
+Speaker 0: Siempre respetando, por supuesto, los derechos también de las personas, ¿no?
+
+116
+00:16:44,080 --> 00:16:45,020
+Speaker 0: No sé si contesto a la….
+
+117
+00:16:46,800 --> 00:16:47,300
+Speaker 0: ¿Se le contestó?
+
+118
+00:16:47,340 --> 00:16:48,180
+Speaker 0: Sí.
+
+119
+00:16:48,220 --> 00:16:48,280
+Speaker 0: Sí.
+
+120
+00:16:53,560 --> 00:16:54,280
+Speaker 0: Y yo tengo otra duda.
+
+121
+00:16:54,960 --> 00:17:00,180
+Speaker 0: Decía 600 plazas dirigidas a personal, profesional, sanitario y otros ámbitos.
+
+122
+00:17:00,820 --> 00:17:05,420
+Speaker 0: No sé si se pueden escribir ya, o cómo se escriben, o si son voluntarios, o esto cómo se va a estructurar.
+
+123
+00:17:08,480 --> 00:17:31,500
+Speaker 2: Las inscripciones se hacen y de hecho me decían esta mañana el personal de la escuela, los responsables, los que llevan el departamento de formación, que ya hay casi 100 inscritos dirigiéndose a la página web de la SCAN, www.scan.es, pues a partir de ahí ir directamente a lo que es el logo de la jornada y a partir de ahí se pueden inscribir sin problema.
+
+124
+00:17:36,180 --> 00:17:36,740
+Speaker 3: Sí, buenos días.
+
+125
+00:17:37,400 --> 00:17:39,120
+Speaker 3: Yo tengo dos cuestiones.
+
+126
+00:17:41,160 --> 00:17:43,380
+Speaker 3: Bueno, una en dos vías y otra cuestión.
+
+127
+00:17:43,440 --> 00:17:56,580
+Speaker 3: La primera, si hay alguna estadística con respecto a esta isla, porque ayer vi alguna con relación a Canarias en general y quería saber si se mantiene la tendencia en nuestra isla, en Tenerife en concreto.
+
+128
+00:17:57,400 --> 00:18:05,580
+Speaker 3: Quería saber si había existido algún tipo, usted creo que, don Juan, lo tocó, pero por encima, si había habido algún tipo de repunte o incidencia.
+
+129
+00:18:06,480 --> 00:18:09,080
+Speaker 3: sobre los suicidios con la pandemia de la COVID-19.
+
+130
+00:18:11,500 --> 00:18:32,560
+Speaker 3: Y luego me gustaría que comentaran, dentro de lo que yo entiendo que puede ser uno de los mitos que comentaba el profesor antes, el doctor, me gustaría que comentaran la cuestión que para nosotros los medios de comunicación ha sido siempre fundamental y sobre lo que creo que estamos bastante despistados.
+
+131
+00:18:33,660 --> 00:18:42,860
+Speaker 3: que es lo que nos dijeron el primer día que entramos en un medio, yo llevo 36, los suicidios no se tocan, de los suicidios no se habla, de los suicidios no se dice nada.
+
+132
+00:18:43,600 --> 00:18:56,560
+Speaker 3: En los últimos tiempos no nos han dicho que tengamos que hablar sobre ellos, pero parece que hay un cambio de tendencia en esta manera de enfocarlo y me gustaría que me lo confirmaran.
+
+133
+00:18:57,160 --> 00:19:00,740
+Speaker 3: De todas maneras, seguimos en una línea de opacar los suicidios.
+
+134
+00:19:01,220 --> 00:19:05,360
+Speaker 3: Yo lo digo desde la perspectiva de este lado de los medios de comunicación.
+
+135
+00:19:12,940 --> 00:19:24,360
+Speaker 0: Exacto, y no quiero... El dato lo tenemos, por ejemplo, de Gran Canaria y Tenerife, y tenemos por islas los datos del año 22.
+
+136
+00:19:24,940 --> 00:19:27,300
+Speaker 0: Yo lo tengo aquí y quería darle el dato exacto.
+
+137
+00:19:30,780 --> 00:19:32,860
+Speaker 0: Bueno, lo tengo aquí anotado, pero no sé dónde lo tengo.
+
+138
+00:19:36,120 --> 00:19:48,980
+Speaker 0: Lo que le puedo decir es que del año 21 al año 22, en darle el dato concreto, Tenerife ha subido en relación a Las Palmas en el año 22 en comparación con el 21.
+
+139
+00:19:49,800 --> 00:20:00,560
+Speaker 0: Si ponemos el dato de Gran Canaria en el año 21 tenía 100, no es el dato correcto, Tenerife tenía 80.
+
+140
+00:20:01,700 --> 00:20:05,640
+Speaker 0: En el año 22 Tenerife subió en comparación con Gran Canaria.
+
+141
+00:20:07,280 --> 00:20:19,780
+Speaker 0: Las dos islas tienen el 90% de los 233 casos que son del año 22 y del año 21, 230 casos son.
+
+142
+00:20:20,580 --> 00:20:21,860
+Speaker 0: Creo que este es el dato correcto.
+
+143
+00:20:22,440 --> 00:20:34,520
+Speaker 0: Sí, en el año 22... 233, en el año 21, 230 y en el año 2020, 208 casos.
+
+144
+00:20:35,160 --> 00:20:39,520
+Speaker 0: Este es un poco a nivel estadístico los datos que tenemos referente a este tema.
+
+145
+00:20:40,760 --> 00:20:44,160
+Speaker 0: Pero también le puedo dar el dato exacto de Tenerife y Gran Canaria, que lo tenemos.
+
+146
+00:20:44,820 --> 00:20:45,720
+Speaker 0: Tenemos un informe.
+
+147
+00:20:46,340 --> 00:20:57,760
+Speaker 0: que hemos hecho recientemente, donde está especificado los datos que nos da el ISTAC y los datos que nos da la encuesta de salud.
+
+148
+00:20:58,660 --> 00:21:03,080
+Speaker 0: La siguiente pregunta, disculpe, la otra pregunta era aquí.
+
+149
+00:21:03,200 --> 00:21:12,120
+Speaker 3: Yo les preguntaba si había habido algún tipo de repunte o incidencia que afectara directamente la COVID, la pandemia.
+
+150
+00:21:12,680 --> 00:21:14,560
+Speaker 3: Ya me ha dado un poco un dato en ese sentido.
+
+151
+00:21:15,280 --> 00:21:23,260
+Speaker 3: Y luego yo le hablaba de la otra pregunta, que es el mito de cómo tratar desde la prensa, desde los medios de comunicación, el suicidio.
+
+152
+00:21:25,960 --> 00:21:27,480
+Speaker 0: Bueno, es una pregunta interesante, ¿no?
+
+153
+00:21:33,400 --> 00:21:36,740
+Speaker 0: Yo creo que yo soy partidario de no esconder.
+
+154
+00:21:40,000 --> 00:21:45,100
+Speaker 0: Yo llegué, no sé si es interesante este tema, pero en el año 85 yo llegué a Canarias.
+
+155
+00:21:46,640 --> 00:21:49,500
+Speaker 0: Yo había tenido una serie de experiencias anteriormente con este tema.
+
+156
+00:21:50,480 --> 00:22:00,940
+Speaker 0: Yo tenía todos los recortes, creo recordar, que se publicaba, no sé si era todos los días, yo recuerdo la provincia, el diario de Las Palmas, es lo que recuerdo, porque eran datos de las Palmas.
+
+157
+00:22:01,320 --> 00:22:10,080
+Speaker 0: Yo tenía todos los recortes y tenía una tanga de todo, los sucesos que sucedían y se publicaba.
+
+158
+00:22:12,140 --> 00:22:13,300
+Speaker 0: Yo no comparto esa opinión.
+
+159
+00:22:14,400 --> 00:22:24,280
+Speaker 0: No comparto que de forma sistemática tengamos que estar diciendo que esto se ha hecho de esta manera, se ahorcó, se tiró por la ventana, etc.
+
+160
+00:22:25,780 --> 00:22:33,000
+Speaker 0: Yo creo que hay algunos detalles, y eso es lo que se recomienda a la OMS, que no se publiquen, no se difunden.
+
+161
+00:22:33,140 --> 00:22:35,740
+Speaker 0: Yo creo que hay que dar las cosas con cierto rigor.
+
+162
+00:22:37,000 --> 00:22:52,780
+Speaker 0: Por ejemplo, sabemos que hay una serie de indicadores, por ejemplo Canarias, que estamos en la parte alta de la tabla a niveles de suicidio y bien, yo creo que ya diría suficiente.
+
+163
+00:22:53,260 --> 00:22:58,220
+Speaker 0: Y cuáles son las medidas preventivas que debemos llevar a cabo, lo que se está llevando a cabo desde mi punto de vista.
+
+164
+00:22:58,540 --> 00:23:01,500
+Speaker 0: Pero creo que tampoco hay que esconder el tema, que no tengamos que hablarlo, ¿no?
+
+165
+00:23:02,120 --> 00:23:10,360
+Speaker 0: Ha habido una psiquiatra, no recuerdo cómo se llama, pero dijo, bueno, ahora tú de salud mental.
+
+166
+00:23:11,920 --> 00:23:15,160
+Speaker 0: Pero claro, cuando tú de salud mental, a lo mejor deja de ser de salud mental.
+
+167
+00:23:16,020 --> 00:23:20,180
+Speaker 0: Yo creo que también tenemos que ser rigurosos a la hora de tratar estos temas.
+
+168
+00:23:22,180 --> 00:23:25,860
+Speaker 0: Yo creo que tenemos que ser rigurosos a la hora de tratar cualquier tema.
+
+169
+00:23:27,260 --> 00:23:33,420
+Speaker 0: Y desde mi punto de vista... Yo creo que los individuos somos responsables.
+
+170
+00:23:35,580 --> 00:23:38,760
+Speaker 0: El suicidio o las ideas no caen del cielo.
+
+171
+00:23:40,680 --> 00:23:44,100
+Speaker 0: Están relacionadas con el ser de variables que sabemos más o menos cuáles son.
+
+172
+00:23:44,680 --> 00:23:45,980
+Speaker 0: Y eso es lo que tenemos que abordar.
+
+173
+00:23:46,720 --> 00:23:58,120
+Speaker 0: Yo creo que toda la sociedad tiene que estar sensibilizada, mentalizada, que esas variables pueden producir un impacto en la sociedad a nivel general, en los individuos.
+
+174
+00:23:58,880 --> 00:24:12,440
+Speaker 0: Yo creo que, y de hecho he tenido la experiencia, que seguramente en el supuesto que haya uno que se esté tirando, seguramente se pudiera, en el medio de la caída se pararía, pero ya no puede.
+
+175
+00:24:14,920 --> 00:24:29,380
+Speaker 0: En mi experiencia como profesional, que he visto muchos casos, infelizmente, podría decir que en el 99,9% no ha habido más intentos de suicidio.
+
+176
+00:24:30,400 --> 00:24:33,480
+Speaker 0: La persona otra vez retoma su vida con la normalidad, etc.
+
+177
+00:24:34,320 --> 00:24:36,240
+Speaker 0: Y creo que para eso debemos estar.
+
+178
+00:24:36,980 --> 00:24:46,800
+Speaker 0: Para las situaciones críticas se debe abordar el tema con mucha delicadeza, con mucha comprensión y desde muchas variables que están presentes.
+
+179
+00:24:47,580 --> 00:25:00,040
+Speaker 0: Desde mi punto de vista, creo que, por ejemplo, la empresa debe tener en cuenta, si tú me aprietas, aprietas, me pones en una situación límite, probablemente hay más probabilidad de que pase algo grave.
+
+180
+00:25:01,360 --> 00:25:08,240
+Speaker 0: Creo recordar que hace unos años largos una sede ejecutiva de Telefónica de Francia se suicidó, por.
+
+181
+00:25:08,280 --> 00:25:08,620
+Speaker 0: ejemplo.
+
+182
+00:25:10,400 --> 00:25:10,600
+Speaker 0: ¿Por qué?
+
+183
+00:25:12,120 --> 00:25:15,140
+Speaker 0: Si realmente las variables están claras o están más o menos claras, ¿no?
+
+184
+00:25:15,700 --> 00:25:26,320
+Speaker 0: Entonces, un poco contestando, yo creo que hay que tratar los temas con mucho rigor, no con sensacionalismo desde mi punto de vista, ¿no?
+
+185
+00:25:27,040 --> 00:25:29,520
+Speaker 0: Y si es así, pues a mí me parece que hay que hablar del tema, ¿no?
+
+186
+00:25:31,940 --> 00:25:41,800
+Speaker 1: Lo que quería añadir a lo que él dice, efectivamente, yo creo que estamos hablando del suicidio cuando eso parecía que era imposible abordarlo no hace mucho tiempo, quizás unos años atrás.
+
+187
+00:25:42,780 --> 00:25:46,200
+Speaker 1: Y es verdad que todos los estigmas y los bulos que pueden existir hay que….
+
+188
+00:25:46,680 --> 00:25:49,000
+Speaker 1: Porque la realidad es dura y es así, pero está ahí, ¿no?
+
+189
+00:25:49,120 --> 00:25:50,620
+Speaker 1: Y la cifra así lo indica.
+
+190
+00:25:50,700 --> 00:25:52,520
+Speaker 1: Estoy de acuerdo totalmente con lo que él ha dicho.
+
+191
+00:25:52,960 --> 00:26:04,900
+Speaker 1: Y con respecto a la pregunta que hacía precisamente teniendo en cuenta abordar todos los aspectos del suicidio, pues ese día hay una persona, María Rosario César Méndez, que va a hablar el suicidio en los medios, hablar o callar.
+
+192
+00:26:05,140 --> 00:26:07,300
+Speaker 1: Yo creo que es muy importante tenerlo en cuenta.
+
+193
+00:26:07,840 --> 00:26:43,060
+Speaker 1: Y por otra parte también que sí que les adelanto que el Cabildo de Tenerife, este área concreta de Educación para la Prevención, bueno, pues ha tenido reuniones con el Servicio Canario de Salud para llevar a cabo dentro del ámbito de la educación para la prevención, pues hacer un estudio de qué mecanismo podemos nosotros aplicar a nivel de infancia y adolescencia que sean, que sean científicamente probados y que nos indique de qué manera podemos prevenir, sobre todo en infancia y adolescencia.
+
+194
+00:26:43,680 --> 00:26:54,000
+Speaker 1: Se pondrá en breve plazo en tres municipios de la isla con la intención de luego llevarlo a todos los municipios de Tenerife.
+
+195
+00:26:54,340 --> 00:27:01,660
+Speaker 1: Yo creo que es importantísimo y teniendo en cuenta lo que estamos hablando de las características del suicidio.
+
+196
+00:27:01,700 --> 00:27:02,960
+Speaker 0: Disculpe, ya le puedo dar el dato.
+
+197
+00:27:04,460 --> 00:27:11,740
+Speaker 0: De Gran Canaria en el año 22 hubo 100 casos, en Tenerife 103.
+
+198
+00:27:12,220 --> 00:27:17,560
+Speaker 0: Y en el año 21 hubo en Gran Canaria 100 y en Tenerife 85.
+
+199
+00:27:18,300 --> 00:27:24,760
+Speaker 0: Por lo tanto, en esta provincia o en esta isla ha habido un aumento muy relevante.
+
+200
+00:27:24,820 --> 00:27:31,480
+Speaker 1: ¿Alguna pregunta más?
+
+201
+00:27:32,780 --> 00:27:52,040
+Speaker 1: Bueno, pues yo lo que quería dar es la gracia por estar aquí presente, recordar para finalizar que lo que decíamos que el suicidio se puede prevenir y otra cosa que ha salido de aquí y es importante, es importantísimo y necesario el que haya una unión entre todas las administraciones y que trabajemos todos en la misma dirección.
+
+202
+00:27:53,420 --> 00:27:55,540
+Speaker 1: Tiene que existir mayor coordinación, ¿no?
+
+203
+00:27:56,000 --> 00:28:07,580
+Speaker 1: Y bueno, y a animar a, como acaba de decir el director, como acaba de decir ahora, que ya hay 100 inscritos, bueno, a animar a participar en esta jornada, que yo creo que son importantísimas por la gente que participa y por el tema en sí.
+
+204
+00:28:08,500 --> 00:28:10,020
+Speaker 1: El día 13, dijimos, ¿no?
+
+205
+00:28:10,240 --> 00:28:17,120
+Speaker 1: El 13 de junio de 2024 en el aula de Magna de la Universidad de La Laguna.
+
+206
+00:28:17,540 --> 00:28:18,520
+Speaker 1: Así que los esperamos a todos.
+
+207
+00:28:18,660 --> 00:28:31,760
+Speaker 1: Gracias.
+
